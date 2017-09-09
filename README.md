@@ -6,5 +6,5 @@ web design
 ### HTML5 & CSS3 & jQuery
 
 ```
-http://naver.com
+http://github.com/ShinSora
 ```
